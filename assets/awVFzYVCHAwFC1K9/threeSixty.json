@@ -1,0 +1,113 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6ackfbOc3WL",
+  "title": "Written Threat",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "BASE"
+    },
+    {
+      "title": "SP / SCR"
+    },
+    {
+      "title": "GSOC"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6LccEA2YHX6",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6CEqvglYES1",
+      "title": "Choose Role",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6r1gy68KseI",
+      "title": "Recap",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6AA4kgIhqRe",
+      "title": "SP Step 1",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6GilBMZ30GP",
+      "title": "SP Step 2",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "61d78fqj2bG",
+      "title": "SP step 3",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6qSys09Czz0",
+      "title": "SP Step 4",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6IOVheeY91n",
+      "title": "SP Step 5",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6HGzIGvfjKY",
+      "title": "GSOC 1",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6bDSuxvF2Io",
+      "title": "GSOC step 2",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6S2pskgPkG7",
+      "title": "GSOC Step 3",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5a0LOd0iG4Z",
+      "title": "GSOC step 4",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6AJMscymtuw",
+      "title": "GSOC step 4cont",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6rKCNPJAZWv",
+      "title": "GSOC step 5",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "6SwEthz3vU6",
+      "title": "GSOC step 6",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5oL491zDMsG",
+      "title": "GSOC step 6",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6lzgsIuWHvT",
+      "title": "GSOC step 6",
+      "scene_index": "3.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

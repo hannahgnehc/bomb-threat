@@ -1,0 +1,138 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5uNJfMFgh4W",
+  "title": "phone threat",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "BASE"
+    },
+    {
+      "title": "SP/SCR"
+    },
+    {
+      "title": "GSOC"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5XzElXnR6ss",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5c9KHBvQW31",
+      "title": "Choose Role",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6pRh4pjX9Cj",
+      "title": "Recap",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5YHgEYt3nc9",
+      "title": "Intro Vid",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6YRjAJbc3kM",
+      "title": "Step 1",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6oBOf2naGpa",
+      "title": "Step 2",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6ZQsa8boKqv",
+      "title": "Step 2 cont",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5r9poHgruUJ",
+      "title": "Step 2 cont",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6mCr0hDqxO9",
+      "title": "SP/SCR 3",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5X2oyMVb7ky",
+      "title": "SP/SCR 4",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6LwTF7OXs2N",
+      "title": "SP/SCR 5",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "5c9CuwiXEF0",
+      "title": "Intro Vid",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5nett6guIn4",
+      "title": "Step 1",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6pQvvRPEJKR",
+      "title": "Step 2",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5izTQUVDo90",
+      "title": "Step 2 cont",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5remcy99Kep",
+      "title": "Step 2 cont",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6M6thggSrx2",
+      "title": "GSOC 3",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5c2EjFMq17w",
+      "title": "GSOC 4",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "6JsVhWTgFmZ",
+      "title": "GSOC 5",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6lziluSt0UM",
+      "title": "GSOC 6",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "6qmBfQn7vox",
+      "title": "GSOC 7",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "5wW09KbOZQu",
+      "title": "GSOC 8",
+      "scene_index": "3.11"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
